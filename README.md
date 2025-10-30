@@ -1,3 +1,5 @@
+
+```
 # Twitter-Sentiment-Analysis
 
 
@@ -57,7 +59,7 @@ Which trends are associated with either of the sentiments? Are they compatible w
 In this article, we learned how to approach a sentiment analysis problem. We started with preprocessing and exploration of data. Then we extracted features from the cleaned text using Bag-of-Words and TF-IDF. Finally, we were able to build a couple of models using both the feature sets to classify the tweets.
 
 Did you find this article useful? Do you have any useful trick? Did you use any other method for feature extraction? Feel free to discuss your experiences in comments below or on the discussion portal and we’ll be more than happy to display
-
+```
 
 
 
